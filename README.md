@@ -1,0 +1,3 @@
+# D&G Taller
+Android: pwabuilder.com -> Build My PWA -> Download Android
+Capacitor: npm i @capacitor/core @capacitor/cli @capacitor/android; npx cap init ...

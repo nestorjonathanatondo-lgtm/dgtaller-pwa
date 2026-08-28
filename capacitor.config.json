@@ -1,0 +1,6 @@
+{
+  "appId": "com.dgtaller.app",
+  "appName": "D&G Taller",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}

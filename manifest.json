@@ -1,0 +1,15 @@
+{
+  "name": "D&G Taller",
+  "short_name": "D&G",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefcf8",
+  "theme_color": "#7b2d2d",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
